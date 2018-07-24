@@ -25683,7 +25683,7 @@ ion-navbar.toolbar {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: sienna;
+  background-color: #3e3d32;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -25735,7 +25735,7 @@ ion-navbar.toolbar {
 }
 
 page-home .background-image {
-  background-image: url(https://ununsplash.imgix.net/photo-1421091242698-34f6ad7fc088?fit=crop&fm=jpg&h=650&q=75&w=950);
+  background-image: url(https://www.lyfx.co/adventures-on-demand.33559922c307052a65a1.jpg);
   background-size: cover;
   background-position: center;
   height: 50vw;
@@ -25744,6 +25744,6 @@ page-home .background-image {
 
 page-home .main-content {
   padding: 20px;
-  background-color: red;
+  background-color: #ddd;
   position: absolute;
 }
